@@ -20,6 +20,13 @@ while True:
         print("\n Your Choice is Savitribai Phule, here is what wikipidia says\n")
         print("\n Savitribai Phule was an Indian social reformer, educationalist, and poet from Maharashtra. She is regarded as the first female teacher of India. Along with her husband, Jyotirao Phule, she played an important and vital role in improving women's rights in India. She is regarded as the mother of Indian. \n\n")
         print("------------------------")
+        more = input("Print m/M for more inforation")
+        if( more == "m" or more == "M"):
+            print("\n Your Choice is Savitribai Phule, here is what wikipidia says\n")
+            print("\n Savitribai Phule was an Indian social reformer, educationalist, and poet from Maharashtra. She is regarded as the first female teacher of India. Along with her husband, Jyotirao Phule, she played an important and vital role in improving women's rights in India. She is regarded as the mother of Indian. \n\n")
+            print("------------------------")
+        
+            
     elif(choice == 4):
         print("\n Your Choice is Shivaji Maharaj, here  is what wikipidia says\n")
         print("\n Shivaji Bhonsale I was an Indian ruler and a member of the Bhonsle Maratha clan. Shivaji carved out an enclave from the declining Adilshahi sultanate of Bijapur that formed the genesis of the Maratha Empire. In 1674, he was formally crowned as the Chhatrapati of his realm at Raigad. \n\n")
