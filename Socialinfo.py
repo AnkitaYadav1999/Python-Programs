@@ -1,5 +1,5 @@
 while True:
-    print("1.Bhagat Singh")
+    print("1.Bhagat Singh ")
     print("2.Dr.Babasaheb Ambedkar")
     print("3.Savitribai Phule")
     print("4.Shivaji Maharaj")
