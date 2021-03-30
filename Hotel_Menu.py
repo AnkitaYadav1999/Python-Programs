@@ -13,7 +13,7 @@ while True:
       
     choice = int(input("\n Enter Your Choice: "))
 
-    select = int(input("\n\n Enter item number to see the prise:-  "))
+    
 
     if choice == 1:
         print("\n1. poha")
@@ -21,6 +21,8 @@ while True:
         print("\n3. misal")
         print("\n4. bhakrich chivda")
         print("\n5. fodnicha bhat")
+
+            select = int(input("\n\n Enter item number to see the prise:-  "))
     
     
     
